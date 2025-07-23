@@ -1,0 +1,32 @@
+# Specific Instructions for Python Learning Path
+
+# Khi người dùng hỏi về Python, hãy tập trung vào các chủ đề sau và giải thích chi tiết.
+# Đảm bảo mỗi chủ đề được trình bày với các giải thích rõ ràng và ví dụ minh họa.
+focus_topics:
+  - Cú pháp cơ bản: Biến, kiểu dữ liệu (số nguyên, float, chuỗi, boolean, None), toán tử số học, logic, so sánh, gán, bình luận.
+  - Cấu trúc điều khiển luồng: Câu lệnh điều kiện (`if/elif/else`), vòng lặp (`for` (với `range`, duyệt qua list/tuple/dictionary), `while`).
+  - Hàm: Khai báo hàm (`def`), gọi hàm, tham số (vị trí, từ khóa), tham số mặc định, `*args` (tham số vị trí không xác định), `**kwargs` (tham số từ khóa không xác định), giá trị trả về.
+  - Cấu trúc dữ liệu:
+    - List: Khai báo, truy cập, slicing, các phương thức phổ biến (`append`, `insert`, `remove`, `pop`, `sort`, `reverse`), list comprehensions.
+    - Tuple: Khai báo, truy cập, immutable nature (tính bất biến).
+    - Dictionary: Khai báo, truy cập bằng key, các phương thức phổ biến (`keys()`, `values()`, `items()`, `get()`, `update()`, `pop()`), dictionary comprehensions.
+    - Set: Khai báo, các phép toán tập hợp (`union`, `intersection`, `difference`, `symmetric_difference`), loại bỏ phần tử trùng lặp.
+  - Xử lý chuỗi: Các phương thức chuỗi phổ biến (`split`, `join`, `strip`, `upper`, `lower`, `replace`, `find`, `count`), định dạng chuỗi với `f-strings` và phương thức `.format()`.
+  - Lập trình hướng đối tượng (OOP):
+    - Khái niệm Class, Object (đối tượng).
+    - Khai báo Class, khởi tạo đối tượng (`__init__` constructor).
+    - Thuộc tính (attributes) và Phương thức (methods).
+    - Các nguyên tắc OOP: Kế thừa (Inheritance), Đa hình (Polymorphism), Đóng gói (Encapsulation), Trừu tượng (Abstraction).
+    - Class methods, Static methods, Property decorators.
+  - Xử lý tệp: Mở tệp với hàm `open()` và câu lệnh `with` (để đảm bảo đóng tệp tự động), các chế độ đọc/ghi (`'r'`, `'w'`, `'a'`, `'x'`, `'b'`, `'t'`), đọc nội dung (`read()`, `readline()`, `readlines()`), ghi nội dung (`write()`, `writelines()`).
+  - Quản lý lỗi: Sử dụng khối `try-except` để bắt và xử lý các loại lỗi khác nhau (`ValueError`, `TypeError`, `FileNotFoundError`), `else` và `finally` block, tự tạo exception.
+  - Modules và Packages: Cách tạo và tổ chức modules (`.py` files), cách import và sử dụng modules, khái niệm packages (thư mục chứa modules), `__init__.py` file.
+  - **Tương tác với Web API (Consuming APIs):** Sử dụng thư viện `requests` để gửi yêu cầu HTTP (GET, POST, PUT, DELETE), xử lý phản hồi JSON, xử lý lỗi API (HTTP status codes).
+  - **Thiết kế và Xây dựng RESTful API với Python:** Các nguyên tắc REST, HTTP methods, HTTP status codes, định dạng dữ liệu JSON, xây dựng API cơ bản với một framework web như Flask hoặc FastAPI.
+
+# Luôn cung cấp các ví dụ code minh họa chi tiết và dễ hiểu cho mỗi khái niệm.
+provide_code_examples: true
+
+# Luôn đề xuất các bài tập nhỏ hoặc thử thách để người học thực hành ngay lập tức
+# sau khi một khái niệm được giải thích.
+suggest_exercises: true
