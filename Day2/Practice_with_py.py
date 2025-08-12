@@ -1,5 +1,8 @@
 x= 10
 y= 20
+a = input("Enter a number: ")
+print("You entered:", a)
+
 def add_numbers(a, b):
     return a + b
 print("The sum of", x, "and", y, "is:", add_numbers(x, y))
@@ -33,8 +36,10 @@ def find_max_age(ages):
     return max(ages)
 print("Maximum age:", find_max_age(ageOfPerson))
 def find_min_age(ages):
+    print("Minimum age:", find_min_age(ageOfPerson))
     return min(ages)
-print("Minimum age:", find_min_age(ageOfPerson))
+
+find_min_age(ageOfPerson)
 
 i = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
