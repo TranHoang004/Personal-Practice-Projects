@@ -1,7 +1,8 @@
-## DAY 1
+# DAY 1
 
 Today we will learn about the basics of Git and GitHub.
 We will cover the following topics:
+
 - What is Git?
 - What is GitHub?
 - How to create a repository

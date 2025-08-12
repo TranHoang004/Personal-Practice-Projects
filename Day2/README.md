@@ -1,26 +1,39 @@
-## Day 2
-### Overview
-This directory contains the code and resources for Day 2 of the project. The focus is on implementing advanced features and optimizations based on the foundational work done in Day 1.
-### Topics Covered
-- Learning python variables and data types
-- Understanding control flow (if statements, loops)
-- Functions and modules
-- Learning javascript variables and data types
-- Understanding control flow in JavaScript
-- Functions and modules in JavaScript
-- Introduction to asynchronous programming in JavaScript
-This day builds and practices a few more advanced concepts in both Python and JavaScript, enhancing your programming skills and understanding of these languages.
-### Learning Objectives
-- Understand and use variables and data types in Python and JavaScript
-- Implement control flow structures effectively
-- Create and use functions and modules in both languages
-- Gain a basic understanding of asynchronous programming in JavaScript
-### Resources
-- [Python Documentation](https://docs.python.org/3/)
-- [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/)
-- [codewars](https://www.codewars.com/) for practice challenges
-### Exercises
-- Create a simple Python script that uses variables, control flow, and functions.
-- Write a JavaScript program that demonstrates the use of variables, control flow, and functions.
+# Day 2: Python Basics
+
+This project demonstrates fundamental Python programming concepts through a collection of simple functions and examples.
+
+## Features
+
+- **User Input:** Prompts the user to enter a number and displays it.
+- **Arithmetic Functions:** Add and multiply two numbers.
+- **Geometry Calculations:** Calculate the area of a circle, the perimeter and area of a rectangle, and the square of a number.
+- **List Operations:** Sort a list of ages, find the maximum and minimum age.
+- **Even and Odd Numbers:** Separate a list of numbers into even and odd numbers.
+
+## Usage
+
+1. Run the script using Python:
+
+    ```bash
+    python script_name.py
+    ```
+
+2. Follow the prompts to enter a number when requested.
+3. The script will display results for all functions using predefined values.
+
+## Functions
+
+- `add_numbers(a, b)`: Returns the sum of `a` and `b`.
+- `multiply_numbers(a, b)`: Returns the product of `a` and `b`.
+- `calculate_area_of_circle(radius)`: Returns the area of a circle given its `radius`.
+- `calculate_perimeter_of_rectangle(length, width)`: Returns the perimeter of a rectangle.
+- `calculate_area_of_rectangle(length, width)`: Returns the area of a rectangle.
+- `calculate_square(a)`: Returns the square of `a`.
+- `sort_ages(ages)`: Returns a sorted list of ages.
+- `find_max_age(ages)`: Returns the maximum age in the list.
+- `find_min_age(ages)`: Returns the minimum age in the list.
+- `odd_and_even_numbers(numbers)`: Returns two lists: even numbers and odd numbers from the input list.
+
+---
+
+Feel free to explore and modify the code to deepen your understanding of Python basics!
