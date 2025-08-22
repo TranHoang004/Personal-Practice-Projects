@@ -1,23 +1,20 @@
-# 14 Days Codewar - Roadmap & Introduction
+# Personal Practice Projects - 2025  
 
-Welcome to the **14 Days Codewar** – a self-learning journey to master Python programming and problem-solving skills in just 14 days!
+This repository showcases my self-learning journey and practice projects in web development and Python programming.  
 
-During this challenge, you will:
+## 🚀 Projects  
 
-- Get familiar with modern development tools like **Git** and **GitHub**.
-- Review and strengthen your Python fundamentals: from basic syntax, functions, and data handling, to solving real-world problems.
-- Practice by building small applications such as console programs, simple web apps, and tackling common algorithmic challenges.
-- Improve your logical thinking, problem analysis, and solution optimization skills.
+- 🌐 **Responsive Multi-Page Website**  
+  Built using **HTML, CSS, and Bootstrap** as a learning project to practice front-end development and responsive design.  
 
-Each day features a unique topic or challenge to help you:
+- 🛠️ **CRUD Web App with Python Flask**  
+  A small practice project to understand **backend development, routing, and database handling** with Flask.  
 
-- Learn concise, easy-to-understand theory.
-- Practice immediately with real-world examples and exercises.
-- Accumulate experience through daily tasks and mini-projects.
+- 🔗 **API Integration (In Progress)**  
+  Experimenting with connecting to external APIs, fetching data, and displaying results in applications.  
 
-**After 14 days:**
+## 🎯 Learning Goals  
 
-- Be proficient with basic Git/GitHub operations.
-- Have a solid foundation in Python.
-- Feel confident solving common programming problems.
-- Own real projects to showcase in interviews or for further study.
+- Strengthen problem-solving and logical thinking skills.  
+- Build a solid foundation in **web development** and **Python backend programming**.  
+- Prepare for real-world projects and internship opportunities.  
