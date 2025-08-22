@@ -1,4 +1,4 @@
-# 14 Days Codewar - Progress Report
+# Personal Practice Projects - Progress Report
 
 ## Day 1: Git & GitHub Basics
 
